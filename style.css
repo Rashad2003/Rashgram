@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+.box{
+    width: 350px;
+    padding: 32px 16px;
+    margin: 50px auto;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px;
+}
+h1{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+form input{
+    width: 92%;
+    border: 1px solid #fff;
+    padding: 12px 10px;
+    margin-bottom: 10px;
+    outline: none;
+    background: #e4e4e4;
+    border-radius: 20px;
+}
+button{
+    margin-top: 20px;
+    width: 90%;
+    padding: 10px 0;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background: grey;
+    cursor: wait;
+}
+button a{
+    color: #fff;
+    text-decoration: none;
+    cursor: wait;
+}
+.check{
+    margin: 4px;
+}
+.check input{
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.check label{
+    font-size: 12px;
+}
+.check a{
+    text-decoration: none;
+}
+.accounts{
+    font-size: 13px;
+    margin-top: 23px;
+}
+.accounts a{
+    text-decoration: none;
+}
+.forget{
+    font-size: 12px;
+    text-align: right;
+}
+.forget a{
+    text-decoration: none;
+}
+.main{
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    line-height: 500px;
+}
